@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.paragraph{
+    background-color: #34495E;
+    border-radius: 20px;
+    padding: 21px;
+    margin: 30px;
+}
+
+.image{
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+}
+h1{
+    font-size: 60px;
+    width: 150px;
+    margin: 40px auto;
+}
+.links{
+    display: block;
+    text-align: center;
+}
